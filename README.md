@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RES3TFX
-- 👀 I’m interested in coding and it economy.
-- 🌱 I’m currently studying business informatics in germany.
+- 👀 I’m interested in coding and it-economy.
+- 🌱 I’m currently studying business information systems in germany.
 - 📫 Hit me up in my dms. 
 
 <!---
